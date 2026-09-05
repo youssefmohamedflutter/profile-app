@@ -199,7 +199,7 @@ fontFamily: 'Heebo-VariableFont_wght'
 
 ## 👨‍💻 Author
 
-### Youssef Mohamed
+### Youssef Gado
 
 **Flutter Developer**
 
