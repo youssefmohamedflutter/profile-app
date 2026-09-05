@@ -1,6 +1,9 @@
 👨‍💻 Profile Card App
 
-￼ ￼ ￼ ￼
+![Flutter](https://img.shields.io/badge/Flutter-3.0-blue?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-3.0-blue?logo=dart)
+![Platform](https://img.shields.io/badge/Platform-Android-success)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 A simple personal Profile Card mobile application built with Flutter.
 
