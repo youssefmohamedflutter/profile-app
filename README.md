@@ -161,9 +161,9 @@ flutter run
 
 Youssef Mohamed Flutter Developer
 
-💼 LinkedIn: youssef-gado
+💼 LinkedIn: [youssef-gado](https://www.linkedin.com/in/youssef-gado-7a2891423/)
 
-💻 GitHub: youssefmohamedflutter
+💻 GitHub: [youssefmohamedflutter](https://github.com/youssefmohamedflutter)
 
 ⭐ Support
 
